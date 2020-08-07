@@ -45,7 +45,7 @@ const SideMenu = () => {
             >
             <Grid container justify='center' alignItems='center'>
                 <Avatar
-                    src='https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg'
+                    src='https://images.unsplash.com/photo-1576478907913-7085b6220a7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80'
                     className={classes.bigAvatar}
                 />
             </Grid>
